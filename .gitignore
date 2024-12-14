@@ -1,0 +1,7 @@
+nestJs-Mongoose/node_modules/*
+nestJs-Mongoose/public/*
+nestJs-Mongoose/dist/*
+
+nestJs-Typeorm/node_modules/*
+nestJs-Typeorm/public/*
+nestJs-Typeorm/dist/*
